@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/AtomChat/static/js/main.9a29b13f.js",
+    "main.js": "/AtomChat/static/js/main.660dea8a.js",
     "static/media/logo192_2.png": "/AtomChat/static/media/logo192_2.ff4f57ddce92f43dfed8.png",
     "index.html": "/AtomChat/index.html",
-    "main.9a29b13f.js.map": "/AtomChat/static/js/main.9a29b13f.js.map"
+    "main.660dea8a.js.map": "/AtomChat/static/js/main.660dea8a.js.map"
   },
   "entrypoints": [
-    "static/js/main.9a29b13f.js"
+    "static/js/main.660dea8a.js"
   ]
 }
